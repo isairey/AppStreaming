@@ -2,7 +2,7 @@
 
 <img width="140" src="https://github.com/isairey.png" />
 
-# 🎵 GrooveWave
+# 🎵 AppStreaming GrooveWave
 
 ### Ride the GrooveWave — Tu música, tu estilo, tu experiencia 🎧
 
@@ -14,10 +14,10 @@
   <a href="https://groovewave.vercel.app/">
     <img src="https://img.shields.io/badge/🚀%20Demo-Live-success?style=for-the-badge">
   </a>
-  <img src="https://img.shields.io/github/stars/isairey/GrooveWave?style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/isairey/GrooveWave?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/isairey/GrooveWave?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/isairey/GrooveWave?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/isairey/AppStreaming?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/isairey/AppStreaming?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/isairey/AppStreaming?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/isairey/AppStreaming?style=for-the-badge">
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ Diseñada con una arquitectura Full Stack moderna usando **Next.js**, **Node.js*
 
 <div align="center">
 
-<img src="https://github.com/ojasaklechayt/Music-Streaming-App/assets/90605717/23c2e493-6a1e-4fc7-8033-375b431e150b" width="900"/>
+<img src="https://github.com/isairey/AppStreaming/assets/90605717/23c2e493-6a1e-4fc7-8033-375b431e150b" width="900"/>
 
 </div>
 
@@ -126,8 +126,8 @@ GrooveWave/
 ## 1️⃣ Clonar el repositorio
 
 ```bash
-git clone https://github.com/isairey/GrooveWave.git
-cd GrooveWave
+git clone https://github.com/isairey/AppStreaming.git
+cd AppStreaming
 ```
 
 ---
@@ -262,6 +262,6 @@ Este proyecto está bajo la licencia **MIT**.
 
 <div align="center">
 
-### 🎶 GrooveWave — Donde la música cobra vida.
+### 🎶 AppStreaming GrooveWave — Donde la música cobra vida.
 
 </div>
